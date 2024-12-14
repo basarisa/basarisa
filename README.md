@@ -1,8 +1,7 @@
-## Hi there 👋
-
-**basarisa/basarisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## 👋 Hi there! Welcome to my GitHub Profile
+ **⛹🏽‍♀️ My name is Arisa, but you can call me Bas. 🏀**
+ 
+I’m thrilled to have you here. This is where I showcase my projects, share what I’m learning, and connect with fellow developers. 🎉🏀 🎉
 
 
 ### 🌟 About Me 🌟 ###
@@ -36,9 +35,10 @@ Here are some ideas to get you started:
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="background-color: white;"/> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python 3" width="40" height="40"/>
 
 #### Tools
-| Git | GitHub | Postman | Supabase |
-|-----|--------|---------|----------|
+| Git | GitHub | Postman |
+|-----|--------|---------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/> 
+
 
 
 
